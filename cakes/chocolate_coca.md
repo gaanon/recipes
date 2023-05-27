@@ -10,6 +10,7 @@ Makes: 8 cakes
 * 30gr cocoa powder
 * 3 eggs
 * 1 teaspoon of baking powder
+* 5 pods of cardamom, crushed 
 
 # Directions
 
@@ -18,8 +19,9 @@ Makes: 8 cakes
 3. Melt the butter
 4. Add the butter to the bowl, add the almond flour and cocoa, mix
 5. Sift the flour, baking powder and yeast to the bowl and mix
-6. Pour into the mould and cook for about 20 minutes or ready
-7. Put chocolate whipped cream on top
+6. Add the cardamom and mix
+7. Pour into the mould and cook for about 20 minutes or ready
+8. Put chocolate whipped cream on top
 
 # Result
 
