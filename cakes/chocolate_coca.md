@@ -23,5 +23,5 @@ Makes: 8 cakes
 
 # Result
 
-[Chocolate cocas](images/chocolate_cocas.jpg "Chocolate cocas")
+[[../images/chocolate_cocas.jpg]]
 
