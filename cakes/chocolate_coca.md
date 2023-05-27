@@ -23,6 +23,6 @@ Makes: 8 cakes
 
 # Result
 
-
+[[/images/chocolate_cocas.jpg|Chocolate cocas]]
 
 
