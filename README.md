@@ -1,6 +1,9 @@
 # Breakfast
 * [Ricotta Pancakes](breakfast/ricotta_pancakes.md)
 
+# Snack
+* [Falafel](snack/falafel.md)
+
 # Dinner
 * [Pizza](dinner/pizza.md)
 * [Chinese stuffed pancakes](dinner/chinese_stuffed_pancake.md)
