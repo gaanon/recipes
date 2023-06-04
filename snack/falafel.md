@@ -7,9 +7,11 @@
 - 1/2 cup parsley (no stems)
 - 1/4 cup cilantro (no stems)
 - 3 tsp cumin
+- chilli flakes
+- sesame seeds 
 - 1/2 tbsp salt
 - 1/4 tsp black pepper
-- 1 tsp baking powder + soda
+- 1 tsp baking powder
 
 # Instructions
 
@@ -18,4 +20,4 @@
 2. Pulse the onions, garlic, herbs, fine minced
 3. Add the beans and spices back and pulse again
 4. Transfer it all to a bowl and add the baking powder
-5. Make the balls/discs and fry at 175 celcius
+5. Make the balls/discs, add sesame seeds  and fry at 175 celcius
