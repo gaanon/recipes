@@ -6,7 +6,7 @@
 - 1/4 green/purple onion
 - 1/2 cup parsley (no stems)
 - 1/4 cup cilantro (no stems)
-- 1 tsp cumin
+- 3 tsp cumin
 - 1/2 tbsp salt
 - 1/4 tsp black pepper
 - 1 tsp baking powder + soda
