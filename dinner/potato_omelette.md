@@ -13,3 +13,7 @@ This is half of the 6+3+1 rule
 2. Season with salt and parsley 
 3. Beat the eggs with salt and milk, mix everything 
 4. Cook the omelette 
+
+# Result
+
+![Potato omelette](../images/PXL_20230605_162722048.jpg)
