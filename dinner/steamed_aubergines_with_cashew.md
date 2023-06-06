@@ -23,3 +23,7 @@ Serves 2
 4. Cut the aubergine in half widthways, then cut each hald into 7cm x 2cm batons. Put these in a bowl with the salt, then transfer to a steaming basket and set aside
 5. Steam the aubergine for 20 minutes, until soft, then drain and let it cool for a bit
 6. Transfer the aubergine to a plate, drizzle over the rayou, top with the sprint/purple onion and server at room temperature
+
+# Result
+
+![Steamed aubergines with cashew](../images/PXL_20230527_194638901.jpg)
