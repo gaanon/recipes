@@ -4,6 +4,9 @@
 # Snack
 * [Falafel](snack/falafel.md)
 
+# Lunch
+* [Savory pancakes](lunch/savory_pancakes.md)
+
 # Dinner
 * [Pizza](dinner/pizza.md)
 * [Chinese stuffed pancakes](dinner/chinese_stuffed_pancake.md)
