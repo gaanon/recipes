@@ -13,9 +13,14 @@
 - 0.5 tsp baking powder
 - 1/4 cup cheese
 
-  # Instructions
+# Instructions
 
-  1. Mix  the yogurt, egg and oil in a bowl
-  2. In a separate bowl, mix the rest of the ingredients
-  3. Mix both, don't overmix
-  4. Cook at medium heat for 2-3 minutes each side 
+1. Mix  the yogurt, egg and oil in a bowl
+2. In a separate bowl, mix the rest of the ingredients
+3. Mix both, don't overmix
+4. Cook at medium heat for 2-3 minutes each side 
+
+# Result
+
+![Savory pancakes](../images/PXL_20230721_115700270.jpg)
+
