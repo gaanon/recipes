@@ -3,6 +3,7 @@
 
 # Snack
 * [Falafel](snack/falafel.md)
+* [Oil bread rolls](snack/oil_bread_rolls.md)
 
 # Lunch
 * [Savory pancakes](lunch/savory_pancakes.md)
