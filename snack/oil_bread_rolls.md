@@ -1,14 +1,14 @@
 # Ingredients
 
-6 rolls
+4 rolls
 
-- 500 gr de bread flour
-- 150 gr olive oil
-- 10 gr dry yeast
-- 200 gr warm water
+- 250 gr de bread flour
+- 75 gr olive oil
+- 5 gr dry yeast
+- 100 gr lukewarm water
 - 50 gr raisins
 - 50 gr walnuts
-- 20 gr sugar
+- 10 gr sugar
 - 10 gr aniseed
 - 1/2 tsp salt
 - 10 gr sesame seeds plus some extra for decoration
@@ -26,4 +26,6 @@
 - Put the rolls on the tray, cover with plastic and wait 1 hour
 - Preheat the oven at 200 degrees, make cuts to the rolls and decorate them with the beaten egg, sesame and sugar
 - Bake for 25-30 minutes
+
+Notes: if you want to put the rolls on the fridge overnight, take them out to bring them to room temperature to allow them to grow  Don't bake from cold 
 
