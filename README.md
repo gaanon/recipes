@@ -13,6 +13,7 @@
 * [Chinese stuffed pancakes](dinner/chinese_stuffed_pancake.md)
 * [Steamed aubergine with cashew](dinner/steamed_aubergines_with_cashew.md)
 * [Potato omelette](dinner/potato_omelette.md)
+* [Tomato rice with chorizo](tomato_rice_with_chorizo.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
