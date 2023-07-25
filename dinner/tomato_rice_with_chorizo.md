@@ -5,14 +5,15 @@ Serves 4
 - 2 tbsp olive oil
 - 3 cloves garlic, peeled and crushed
 - 2 bay leaves
-- 1 tsp coriander seeds, lightly crushed
+- 1/2 tsp coriander seeds, lightly crushed
 - 1 small chilli, thinly sliced
 - 1 leek (150 gr), halved and sliced
 - 1 tsp salt
 - 200g cooking chorizo
 - 3-4 vine tomatoes (300 gr) finely chopped
 - 2 tbsp tomato puree
-- 1 tbsp smoked paprika
+- 1 tsp smoked paprika
+- 1 tsp sweet paprika 
 - 250 gr paella rice
 - fresh parsley, roughly chopped
 
