@@ -62,3 +62,7 @@
 11.  Cover with plastic wrap and let sit for 1 – 2 hours.
     
 12.  Now, you are ready to make some pizza.
+
+# Notes
+
+* Find the link to the ofiginal video here: https://www.youtube.com/watch?v=OjsCEJ8CWlg&ab_channel=ProHomeCooks 
