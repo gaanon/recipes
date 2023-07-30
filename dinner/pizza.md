@@ -35,11 +35,13 @@
 *   300 grams of water
     
 *   20 grams of salt
+
+*   5 grams diastatic malt
     
 
 ## Instructions:
 
-1.  In a large bowl add all of the poolish, bread flour, and 00 flour.
+1.  In a large bowl add all of the poolish, malt, bread flour, and 00 flour.
     
 2.  In a measuring cup add in water and salt. Mix to dissolve salt.
     
