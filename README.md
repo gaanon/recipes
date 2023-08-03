@@ -1,5 +1,6 @@
 # Breakfast
 * [Ricotta Pancakes](breakfast/ricotta_pancakes.md)
+* [Shakshuka](breakfast/shakshuka.md)
 
 # Snack
 * [Falafel](snack/falafel.md)
