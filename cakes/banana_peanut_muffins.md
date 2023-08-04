@@ -21,3 +21,7 @@
 3. In a different bowl, mix the crushed banana, sugar, stir it, add the peanut butter, stir it, add the oil, milk, egg, vanilla, choco chips and whisk it all
 4. Add the dry ingredients to the wet ones and combine
 5. Bake for about 13 minutes, use a stick to test when it's done
+
+# Notes
+
+It wasn't very tasty, add more banana and peanut butter, maybe skip the cinnamon 
