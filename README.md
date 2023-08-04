@@ -21,5 +21,6 @@
 
 # Cakes
 * [Chocolate cocas](cakes/chocolate_coca.md)
+* [Banana and peanut muffins](cakes/banana_peanut_muffins.md)
 
 
