@@ -24,4 +24,4 @@
 
 # Notes
 
-It wasn't very tasty, add more banana and peanut butter, maybe skip the cinnamon 
+It wasn't very tasty, add more banana and peanut butter, maybe skip the cinnamon, more sugar 
