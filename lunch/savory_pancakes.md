@@ -4,13 +4,13 @@
 - 1 small egg
 - 2 tbsp olive oil
 - 1/2 cup flour
-- 1/2 small onion
+- 1/2 small onion, finely chopped 
 - 1 tbsp coriander
-- 0.25 tsp salt
-- 0.25 tsp pepper
-- 0.25 tsp chilli flakes
-- 0.25 tsp baking soda
-- 0.5 tsp baking powder
+- 1/4 tsp salt
+- 1/4 tsp pepper
+- 1/4 tsp chilli flakes
+- 1/4 tsp baking soda
+- 1/2 tsp baking powder
 - 1/4 cup cheese
 
 # Instructions
