@@ -1,4 +1,4 @@
-Makes 6
+Makes 6 (use half of the ingredients) 
 
 # Ingredients
 
