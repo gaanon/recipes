@@ -1,19 +1,20 @@
-Makes 6 (use half of the ingredients) 
+Makes 4-5 
 
 # Ingredients
 
-* 80 ml olive oil
-* 20 gr parmigiano reggiano
+* 40 ml olive oil
+* 10 gr parmigiano reggiano
 * 1 tbsp tomato purée
-* 2 tap oregano
-* 2 eggs
-* 1/2 tsp salt
-* 100 gr yogurt
-* 125 gr feta
-* 80 gr cherry tomatoes
-* 180 gr flour
+* 2 tsp oregano
+* 1 eggs
+* 1/4 tsp salt
+* 50 gr yogurt
+* 65 gr feta
+* 40 gr cherry tomatoes
+* 90 gr flour
 * 1/2 tsp baking powder
 * 1/2 tsp bicarbonate of soda
+* opcional: bread starter
 
 # Directions 
 
