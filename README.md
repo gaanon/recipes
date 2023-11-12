@@ -16,6 +16,7 @@
 * [Steamed aubergine with cashew](dinner/steamed_aubergines_with_cashew.md)
 * [Potato omelette](dinner/potato_omelette.md)
 * [Tomato rice with chorizo](dinner/tomato_rice_with_chorizo.md)
+* [Katsu curry](dinner/katsu_curry.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
