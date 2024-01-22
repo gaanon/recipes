@@ -17,6 +17,7 @@
 * [Potato omelette](dinner/potato_omelette.md)
 * [Tomato rice with chorizo](dinner/tomato_rice_with_chorizo.md)
 * [Katsu curry](dinner/katsu_curry.md)
+* [Korean garlic tofu](dinner/korean_garlic_tofu.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
