@@ -5,7 +5,8 @@
 # Snack
 * [Falafel](snack/falafel.md)
 * [Oil bread rolls](snack/oil_bread_rolls.md)
-* [Tomato feta muffins](snack/tomato_feta_muffins.md) 
+* [Tomato feta muffins](snack/tomato_feta_muffins.md)
+* [Chickpea fries](chickpea_fries.md)
 
 # Lunch
 * [Savory pancakes](lunch/savory_pancakes.md)
