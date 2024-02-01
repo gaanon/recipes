@@ -65,6 +65,8 @@
     
 12.  Now, you are ready to make some pizza.
 
+13.  To take it out of the tray, use the red spatula with plenty of flour on it, don't use your fingers 
+
 # Notes
 
 * Find the link to the ofiginal video here: https://www.youtube.com/watch?v=OjsCEJ8CWlg&ab_channel=ProHomeCooks 
