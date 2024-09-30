@@ -28,6 +28,7 @@
 * [Banana and peanut muffins](cakes/banana_peanut_muffins.md)
 * [Basque cheesecake](cakes/basque_cheesecake.md)
 * [Persian muffins](cakes/persian_muffins.md)
+* [Key Lime Pie](cakes/key_lime_pie.md)
 
 # Drinks
 * [Leche rizada](drinks/leche_rizada.md)
