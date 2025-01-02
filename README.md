@@ -23,6 +23,7 @@
 * [Chicken with rice](dinner/chicken_rice.md)
 * [Pumpkin soup](dinner/pumpkin_soup.md)
 * [Pappardelle with nduja](dinner/pappardelle_with_nduja.md)
+* [Czech soup](dinner/czech_soup.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
