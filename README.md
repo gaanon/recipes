@@ -21,6 +21,7 @@
 * [Katsu curry](dinner/katsu_curry.md)
 * [Korean garlic tofu](dinner/korean_garlic_tofu.md)
 * [Chicken with rice](dinner/chicken_rice.md)
+* [Pumpkin soup](dinner/pumpkin_soup.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
