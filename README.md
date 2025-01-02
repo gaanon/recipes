@@ -4,7 +4,6 @@
 
 # Snack
 * [Falafel](snack/falafel.md)
-* [Oil bread rolls](snack/oil_bread_rolls.md)
 * [Tomato feta muffins](snack/tomato_feta_muffins.md)
 * [Chickpea fries](chickpea_fries.md)
 
@@ -44,6 +43,6 @@
 * [Marinada](sauces/marinara.md)
 
 # Bread
-* [Pan de aceite](bread/pan_de_aceite.md)
+* [Oil bread rolls](bread/oil_bread_rolls.md)
 * [Cornbread](bread/cornbread.md)
   
