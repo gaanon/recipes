@@ -11,6 +11,7 @@
 # Lunch
 * [Savory pancakes](lunch/savory_pancakes.md)
 * [Salmorejo](lunch/salmorejo.md)
+* [Farinata](lunch/farinata.md)
 
 # Dinner
 * [Pizza](dinner/pizza.md)
