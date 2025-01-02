@@ -19,6 +19,7 @@
 * [Tomato rice with chorizo](dinner/tomato_rice_with_chorizo.md)
 * [Katsu curry](dinner/katsu_curry.md)
 * [Korean garlic tofu](dinner/korean_garlic_tofu.md)
+* [Chicken with rice](dinner/chicken_rice.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
