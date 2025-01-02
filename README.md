@@ -22,6 +22,7 @@
 * [Korean garlic tofu](dinner/korean_garlic_tofu.md)
 * [Chicken with rice](dinner/chicken_rice.md)
 * [Pumpkin soup](dinner/pumpkin_soup.md)
+* [Pappardelle with nduja](dinner/pappardelle_with_nduja.md)
 
 # Dessert
 * [Chocolate Raspberry Cake](dessert/chocolate_raspberry_cake.md)
