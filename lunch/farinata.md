@@ -9,6 +9,6 @@
 # Instructions
 
 1. Mix the flour and water.
-2. Remove foam, cover with cling film and wait.
+2. Remove foam, cover with cling film and wait for 4 hours.
 3. Add oil, salt and rosemary.
 4. Pour into a dish, bake for 210 (no fan) for 30 minutes.
