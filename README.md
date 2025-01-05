@@ -37,6 +37,7 @@
 * [Persian muffins](cakes/persian_muffins.md)
 * [Key Lime Pie](cakes/key_lime_pie.md)
 * [Banana bread](cakes/banana_bread.md)
+* [Roscon de Reyes](cakes/roscon_de_reyes.md)
 
 # Drinks
 * [Leche rizada](drinks/leche_rizada.md)
