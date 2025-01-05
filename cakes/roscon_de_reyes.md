@@ -24,7 +24,7 @@ Para el relleno:
 
 1. Disuelve la levadura en la leche templada.
 2. Prepara la masa. Vuelca toda la harina en un bol y añade una pizca de sal. Haz un hueco en el centro y añade la leche con la levadura. Incorpora el huevo, el azúcar, el agua de azahar, la ralladura de una naranja, la ralladura de medio limón y la mantequilla a temperatura ambiente.
-3. Mezcla todos los ingredientes dentro del bol y pásalo a la maquina cuando ya no puedas trabajar la masa en el bol. Amasa 5-10 minutos (a que velocidad?) hasta que la textura de la masa sea lisa.
+3. Mezcla todos los ingredientes dentro del bol y pásalo a la maquina cuando ya no puedas trabajar la masa en el bol. Amasa 5-10 minutos (speed 2) hasta que la textura de la masa sea lisa.
 4. Pon la masa dentro de un recipiente untado con un poco de aceite. Tapa con film de cocina y deja reposar 2 o 3 horas hasta que la masa doble su volumen.
 5. Quita el aire a la masa. Vuelca la masa sobre el mármol y amasa hasta quitarle el aire. Vuelve a formar una bola y déjala reposar 10 minutos para que la masa se relaje y sea más fácil trabajarla. Forma el roscón. Marca con las manos el agujero en el centro y ve estirando la masa para dar la forma de rosca.
 6. Pon el roscón sobre una bandeja de horno con papel de horno. Tápalo con film hasta que crezca de nuevo durante una hora y media.
