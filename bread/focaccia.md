@@ -7,7 +7,7 @@
 - 200ml cold water  
 - 30ml extra virgin olive oil (and a little extra for greasing)  
 - 1¼ tsp fine sea salt  
-- 2.5g fresh yeast  
+- 3g dry yeast (activate it with part of the water and sugar)  
 - 27g clear honey 
 
 ### For the topping:
