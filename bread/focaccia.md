@@ -27,7 +27,7 @@
    - After 45 minutes, punch the risen dough back with your fist, re-cover with a damp tea towel, and leave for another 45 minutes.  
    - Punch down again and repeat a third time.  
 
-3. Let the dough rise one last time. Lightly oil a deep baking tray or roasting tin measuring about 27cm × 30cm.  
+3. Let the dough rise one last time. ~~Lightly oil a deep baking tray or roasting tin measuring about 27cm × 30cm~~ (try using partchment paper, it gets stuck).  
    - With your fingers, gently coax the dough into a flat shape to cover the tray.  
    - If the dough resists and springs back, let it relax for another 10 minutes and try again.  
    - The surface should be nicely cratered with your finger marks – this is what gives focaccia its characteristic dimpled surface.
