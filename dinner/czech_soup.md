@@ -3,12 +3,12 @@
 - 450 g potatoes 
 - 40 g unsalted butter
 - 30 g all-purpose flour
-- 50 g granulated sugar
+- 20 g granulated sugar
 - 1 handful dried mushrooms e.g. porcini mushrooms
 - 180 ml heavy cream fat content about 30 %
 - 3 Tablespoon vinegar 5% acidity
 - 3 Tablespoons fresh dill chopped, only leaves, no stems
-- 720 ml beef broth lukewarm, for soup
+- 720 ml veg broth lukewarm, for soup
 - 480 ml water to cook dried mushrooms
 - salt
 - 0.25 teaspoon ground black pepper
