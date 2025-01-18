@@ -50,4 +50,5 @@
 * [Oil bread rolls](bread/oil_bread_rolls.md)
 * [Cornbread](bread/cornbread.md)
 * [Focaccia](bread/focaccia.md)
+* [Spelt rolls](bread/spelt_rolls.md)
   
