@@ -2,7 +2,8 @@
 
 - 8g dry yeast
 - 200ml cold water
-- 550g strong white bread flour 100g caster sugar
+- 550g strong white bread flour
+- 50g sugar
 - 3 eggs
 - 4 tbsp olive oil
 - 11⁄2 tsp fine sea salt
