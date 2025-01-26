@@ -4,10 +4,11 @@
 - 180g plain flour, plus extra for the tin  
 - 2½ tsp baking powder  
 - 1 tsp salt  
-- 160g soft, light brown sugar  
+- 160g sugar (I used 90 plus amaretto) 
 - 2 eggs, beaten  
 - 4 tbsp melted butter, plus extra to grease, slightly cooled  
-- 50g walnuts, roughly chopped**
+- 50g walnuts, roughly chopped
+- extras like dates, figs, coconut on top 
 
 # Instructions
 
