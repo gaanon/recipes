@@ -51,4 +51,7 @@
 * [Cornbread](bread/cornbread.md)
 * [Focaccia](bread/focaccia.md)
 * [Spelt rolls](bread/spelt_rolls.md)
+* [Challah](bread/challah.md)
+
+  
   
