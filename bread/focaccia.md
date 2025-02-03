@@ -23,7 +23,7 @@
 
 1. Sift the flour into the bowl of a stand mixer and add all the remaining dough ingredients. Knead with the dough hook on a slow speed for 8–10 minutes until smooth, soft, and elastic.
 
-2. Place the dough in an oiled bowl, swiveling it inside the bowl until it is coated with oil on all sides. Cover with a clean, damp tea towel and leave to rise at room temperature.  
+2. Place the dough in an oiled bowl, swiveling it inside the bowl until it is coated with oil on all sides. Cover with a shower cap and leave to rise at room temperature.  
    - After 45 minutes, punch the risen dough back with your fist, re-cover with a damp tea towel, and leave for another 45 minutes.  
    - Punch down again and repeat a third time.  
 
