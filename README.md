@@ -5,7 +5,7 @@
 # Snack
 * [Falafel](snack/falafel.md)
 * [Tomato feta muffins](snack/tomato_feta_muffins.md)
-* [Chickpea fries](chickpea_fries.md)
+* [Chickpea fries](snack/chickpea_fries.md)
 * [Chestnut cookies](snack/chestnut_cookies.md)
 
 # Lunch
