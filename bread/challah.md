@@ -1,6 +1,6 @@
 # Ingredients
 
-- 6g dry yeast
+- 6g dry yeast or 20g of fresh yeast
 - 200ml cold water
 - 550g strong white bread flour
 - 50g sugar
